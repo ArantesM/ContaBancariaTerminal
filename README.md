@@ -1,2 +1,2 @@
-##Desafio DIO!
-#####Criar conta bancaria via terminal.
+Desafio DIO!
+Criar conta bancaria via terminal.
